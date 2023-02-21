@@ -14,7 +14,3 @@ Having created the website from scratch, I learned how to create and implement f
 - Functional form 💌
 - Fully responsive thanks to media queries ✨
 - Utilized grid, flexbox and absolute positioning
-
-# Hero
-<a href="https://saber-mohamed.netlify.app" target="_blank">
-<img src="./screenShoot.png" style="max-width:100%;"></a>
